@@ -1,5 +1,5 @@
 # Customer Segmentation and Risk Intelligence Dashboard
-#### [Click to view Dashboard](https://public.tableau.com/views/CustomerSegmentationRiskIntelligenceDashboard)
+#### [Click to view Dashboard](https://public.tableau.com/views/CustomerSegmentationRiskIntelligenceDashboard/CustomerSegmentationRiskIntelligence?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1512" height="901" alt="image" src="https://github.com/user-attachments/assets/8ed9cb2e-2933-4a3c-a597-b44d7bb36cd2" />
 
 
